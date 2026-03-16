@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 Poland 16 +17
 Poland 15 +18
+=======
+Poland 16 +17
+>>>>>>> 8fd5a34 (16 03 add poland weather)
