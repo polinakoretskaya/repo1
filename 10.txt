@@ -1,1 +1,1 @@
-This is temporary file for trying git branch
+I want to try conflicts dev1
