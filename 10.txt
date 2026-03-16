@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Develop trying conflicts 
+=======
+I want to try conflicts dev1
+>>>>>>> dev1
